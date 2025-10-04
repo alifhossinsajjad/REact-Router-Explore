@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router';
 
 const PlantCard = ({ plant }) => {
+    console.log(plant);
     const {id, name, image, price, category} = plant
     return (
         <div className="p-4 bg-white rounded-lg shadow max-w-90 ">
