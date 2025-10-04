@@ -46,4 +46,4 @@ prebuild ui use this project.
 
 1. Fast off all i face the problem with axios for API to data load . Then I see that I didn't use the loader function. Then I debug it using the root file.
 
-2. Then I faced a problem while using Context API in this project. I forgot to take context API as object instead of array. Later, when I tried to use that context API as object everywhere, I got a big error. I checked the root file and took it as array and it was not in object form everywhere. Later I passed everything as object form as props. Then my project was completely built.
+2. Then I faced a problem while using Context API in this project. I forgot to take context API as object instead of array. Later, when I tried to use that context API as object everywhere, I got a big error. I checked the root file and took it as array and it was not in object form everywhere. Later I passed everything as object as props and also used optional chaining. Then my project was completely built.
