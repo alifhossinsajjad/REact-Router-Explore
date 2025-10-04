@@ -6,6 +6,7 @@ import About from '../Pages/About';
 import Contact from '../Pages/Contact';
 import LoadingSpinner from '../Components/LoadingSpinner';
 import { CartContext } from '../Providers/CartContext';
+import Cart from '../Pages/Cart';
 
 
 
